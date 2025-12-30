@@ -2,7 +2,7 @@
 
 <h2>1001件のPinterestプロフィールと投稿のサンプルデータセット</h2>
 
-![Pinterest dataset header](https://github.com/luminati-io/Pinterest-dataset-samples/blob/main/pinterest-datasets.PNG)
+![Pinterest dataset header](https://github.com/bright-jp/Pinterest-dataset-samples/blob/main/pinterest-datasets.PNG)
 
 1000件以上のプロフィールと投稿からなるPinterestデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されています。
 

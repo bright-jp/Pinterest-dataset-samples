@@ -1,60 +1,60 @@
 # Pinterest-dataset-samples
 
-<h2>A sample dataset of 1001 Pinterest profiles and posts</h2>
+<h2>1001件のPinterestプロフィールと投稿のサンプルデータセット</h2>
 
 ![Pinterest dataset header](https://github.com/luminati-io/Pinterest-dataset-samples/blob/main/pinterest-datasets.PNG)
 
-A Pinterest dataset sample of over 1000 profiles and posts. Dataset was extracted using the <b>Bright Data API</b>.
+1000件以上のプロフィールと投稿からなるPinterestデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されています。
 
-<h2>Some of the data points that are included in the dataset:</h2>
+<h2>データセットに含まれるデータポイントの一部：</h2>
 
-* ```url```: URL of the Pinterest post
-* ```post_id```: Unique identifier for each post
-* ```title```: Title of the post
-* ```content```: Text content of the post
-* ```date_posted```: Date when the post was published
-* ```user_name```: Username of the user who posted the content
-* ```user_url```: URL of the user's Pinterest profile
-* ```user_id```: Unique identifier for the user
-* ```followers```: Number of followers of the user
-* ```likes```: Number of likes received by the post
-* ```categories```: Categories or tags associated with the post
-* ```source```: Source of the post
-* ```attached_files```: Files attached to the post
-* ```image_video_url```: URL of the image or video attached to the post
-* ```video_length```: Length of the video attached to the post
-* ```hashtags```: Hashtags used in the post
-* ```post_type```: Type of the post
-* ```comments_num```: Number of comments on the post
-* ```comments```: Text content of the comments on the post
-* ```discovery_input```: Discovery input value
+* ```url```: Pinterest投稿のURL
+* ```post_id```: 各投稿の一意識別子
+* ```title```: 投稿のタイトル
+* ```content```: 投稿のテキスト内容
+* ```date_posted```: 投稿が公開された日付
+* ```user_name```: コンテンツを投稿したユーザーのユーザー名
+* ```user_url```: ユーザーのPinterestプロフィールのURL
+* ```user_id```: ユーザーの一意識別子
+* ```followers```: ユーザーのフォロワー数
+* ```likes```: 投稿が受け取った「いいね」の数
+* ```categories```: 投稿に関連付けられたカテゴリまたはタグ
+* ```source```: 投稿のソース
+* ```attached_files```: 投稿に添付されたファイル
+* ```image_video_url```: 投稿に添付された画像または動画のURL
+* ```video_length```: 投稿に添付された動画の長さ
+* ```hashtags```: 投稿で使用されたハッシュタグ
+* ```post_type```: 投稿の種類
+* ```comments_num```: 投稿のコメント数
+* ```comments```: 投稿のコメントのテキスト内容
+* ```discovery_input```: discovery_inputの値
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Pinterest Profiles and Posts (public data)"
-dataset which includes more than <b>186,000,000 profiles and posts</b>.
+これは「Pinterest Profiles and Posts (public data)」データセットから派生したサンプルサブセットです。
+このデータセットには <b>186,000,000件以上のプロフィールと投稿</b> が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式：<b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じてファイルを .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセット配信タイプのオプション：<b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度：<b>Once, Daily, Weekly, Monthly, Quarterly, または Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント：<b>リクエストに基づきます。</b>
 
-<b>[Get the full Pinterest dataset](https://brightdata.com/products/datasets/pinterest)</b>.
+<b>[フルのPinterestデータセットを入手する](https://brightdata.jp/products/datasets/pinterest)</b>。
 
-<h2>What are the Pinterest datasets use cases?</h2>
+<h2>Pinterestデータセットのユースケースとは？</h2>
 
-<h3>1. Consumer trends</h3>
-Businesses use Pinterest datasets to identify and act on emerging consumer trends in real-time. By analyzing popular pins and boards, companies gain insights into evolving customer interests and preferences, enabling them to adapt product offerings and marketing strategies to stay aligned with the latest trends.
+<h3>1. 消費者トレンド</h3>
+企業はPinterestデータセットを活用して、新たに生まれる消費者トレンドをリアルタイムで特定し、対応します。人気のピンやボードを分析することで、顧客の関心や嗜好の変化に関する洞察を得られ、最新トレンドに合わせて商品提供やマーケティング戦略を適応させることができます。
 
-<h3>2. Market research</h3>
-Brands optimize their social media presence by analyzing Pinterest datasets to understand user interactions and preferences. By identifying influential accounts, they can improve their influencer marketing campaigns, ensuring wider reach and greater credibility within their target audience.
+<h3>2. 市場調査</h3>
+ブランドはPinterestデータセットを分析して、ユーザーのインタラクションや嗜好を理解し、ソーシャルメディアでのプレゼンスを最適化します。影響力の高いアカウントを特定することで、インフルエンサーマーケティングキャンペーンを改善でき、ターゲットオーディエンス内でより広いリーチと高い信頼性を確保できます。
 
-<h3>3. Product development</h3>
-Companies utilize Pinterest data to fuel product development and innovation. Monitoring user activity reveals gaps in the market and unmet consumer needs, allowing businesses to create new products for a highly engaged and interested audience.
+<h3>3. 製品開発</h3>
+企業はPinterestデータを活用して、製品開発とイノベーションを推進します。ユーザー活動をモニタリングすることで、市場のギャップや満たされていない消費者ニーズが明らかになり、関心とエンゲージメントの高いオーディエンスに向けた新製品の創出が可能になります。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、主要な学術部門および研究者、ならびにさまざまな環境・社会的課題を推進するNGOおよびNPOに対して、Bright Dataの <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> と <b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供しています。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。

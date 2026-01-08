@@ -1,4 +1,4 @@
-# Pinterest-dataset-samples
+# Pinterest データセットサンプル
 
 <h2>1001件のPinterestプロフィールと投稿のサンプルデータセット</h2>
 
